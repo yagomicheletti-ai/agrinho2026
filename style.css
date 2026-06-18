@@ -2,26 +2,21 @@
 margin:0px;
 padding:0px;
 
-
 }
-
-
-
-
-
-
 
 header {background-color: rgb(97, 165, 28);
     height: 4em;
     color: white;
 text-align: center;
+}
 
 
 main{
 
 }
+
 footer{
     background-color:rgb(197, 96, 23);
-}
-
+    
+    position:fixed;
 }
