@@ -11,8 +11,7 @@ padding:0px;
 
 
 
-header {
-    background-color: chartreuse;
+header {background-color: rgb(97, 165, 28);
     height: 4em;
     color: white;
 text-align: center;
@@ -22,7 +21,7 @@ main{
 
 }
 footer{
-    background-color:rgb(207, 105, 33);
+    background-color:rgb(197, 96, 23);
 }
 
 }
